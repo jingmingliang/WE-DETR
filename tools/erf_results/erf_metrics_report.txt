@@ -1,0 +1,26 @@
+ERF Analysis Comparison Report
+==================================================
+
+BASELINE MODEL (No RepLK Enhancement)
+----------------------------------------
+Center Concentration: 0.9901
+Threshold 0.2: Side Length = 25, Area Ratio = 0.0015
+Threshold 0.3: Side Length = 29, Area Ratio = 0.0021
+Threshold 0.5: Side Length = 39, Area Ratio = 0.0037
+Threshold 0.99: Side Length = 101, Area Ratio = 0.0249
+
+ENHANCED MODEL (With RepLK Enhancement)
+----------------------------------------
+Center Concentration: 0.9049
+Threshold 0.2: Side Length = 29, Area Ratio = 0.0021
+Threshold 0.3: Side Length = 35, Area Ratio = 0.0030
+Threshold 0.5: Side Length = 49, Area Ratio = 0.0059
+Threshold 0.99: Side Length = 157, Area Ratio = 0.0602
+
+IMPROVEMENT ANALYSIS
+----------------------------------------
+Center Concentration Improvement: -0.0851
+Area Ratio Improvement (thresh 0.2): +0.0005
+Area Ratio Improvement (thresh 0.3): +0.0009
+Area Ratio Improvement (thresh 0.5): +0.0021
+Area Ratio Improvement (thresh 0.99): +0.0353
