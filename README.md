@@ -110,14 +110,16 @@ Omit `-s` for whole-image inference. The current visualization threshold is `0.6
 If you find this work useful, please cite:
 
 ```bibtex
-@article{song2026wedetr,
-  author  = {Song, Yu and others},
-  title   = {{WE-DETR}: Wavelet-Enhanced Multiscale Feature Compensation Detection Transformer for Remote Sensing Small Objects},
-  journal = {IEEE Transactions on Geoscience and Remote Sensing},
-  volume  = {64},
-  year    = {2026},
-  doi     = {10.1109/TGRS.2026.3730195}
-}
+@ARTICLE{11677228,
+  author={Song, Yu and Zuo, Weiguo and Shang, Ronghua and Zhuang, Haixiao and Zheng, Chen and Liu, Zhenzhen and Yang, Xiaohui},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={WE-DETR: Wavelet-Enhanced Multiscale Feature Compensation Detection Transformer for Remote Sensing Small Objects}, 
+  year={2026},
+  volume={64},
+  number={},
+  pages={4707214-4707214},
+  keywords={Object detection;Modeling;Remote sensing;Signal detection;Educational institutions;High frequency;Transformers;Frequency;Conferences;Design methodology;Detection transformer;multiscale feature compensation;small object detection;wavelet-enhanced},
+  doi={10.1109/TGRS.2026.3730195}}
 ```
 
 ## Acknowledgments
