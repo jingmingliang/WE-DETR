@@ -1,5 +1,5 @@
 
-**(TGRS 2026) WE-DETR: Wavelet-Enhanced Multi-Scale Feature Compensation Detection Transformer for Remote Sensing Small Objects**
+# (TGRS 2026) WE-DETR: Wavelet-Enhanced Multi-Scale Feature Compensation Detection Transformer for Remote Sensing Small Objects
 
 Implementation of WE-DETR for remote sensing small-object detection, published in *IEEE Transactions on Geoscience and Remote Sensing*.
 
